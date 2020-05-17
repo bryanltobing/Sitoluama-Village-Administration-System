@@ -1,2 +1,9 @@
-* linguist-vendored
-*.js linguist-vendored=false
+##### Language
+# PHP
+*.php text
+*.phpt text
+*.phtml text
+*.twig text
+.htaccess text
+.ht text
+*.phar binary
